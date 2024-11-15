@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Beatriz Maribel Torres
 
-<!--
-**beator19/beator19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📖 Sobre mí
+- 📚 **Estudiante de desarrollo web** con hambre de aprender y crecer. metamorfosis 
+- 🌱 **Aprendiz constante**, actualizandome diariamente.  
+- 💡 **Innovadora en formación**, siempre buscando nuevas oportunidades para mejorar.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que domino
+- **Lenguajes:**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+
+---
+---
+
+### 🌟 Proyectos destacados
+- 🚧 *Aún no tengo proyectos destacados, pero próximamente verás aquí mis mejores creaciones.*  
+
+---
+
+### 🌐 Encuéntrame
+- ✉️ **Email:** [beatrizmaribel.torres@gracia.lasalle.cat](mailto:beatrizmaribel.torres@gracia.lasalle.cat)  
+
+---
+
+¡Pronto habrá más actualizaciones en mi perfil! 🚀
