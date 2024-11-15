@@ -2,7 +2,7 @@
 
 ### 📖 Sobre mí
 - 📚 **Estudiante de desarrollo web** con hambre de aprender y crecer. metamorfosis 
-- 🌱 **Aprendiz constante**, actualizandome diariamente.  
+- 🌱 **Aprendiz constante**, actualizándome diariamente.  
 - 💡 **Innovadora en formación**, siempre buscando nuevas oportunidades para mejorar.  
 
 ---
