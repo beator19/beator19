@@ -4,7 +4,7 @@
 - 📚 **Estudiante de desarrollo web** con hambre de aprender y crecer. metamorfosis 
 - 🌱 **Aprendiz constante**, actualizándome diariamente.  
 - 💡 **Innovadora en formación**, siempre buscando nuevas oportunidades para mejorar.  
-
+![]([https://media.giphy.com/media/ID_DEL_GIF/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRnZXdheGQ4cnQ5cTkzamp6bHg0MjZnYmozdmt3Zndqem1nb3FodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ADD4w6XgqLBJohQdBK/giphy.gif)
 ---
 
 ### 🛠️ Tecnologías que domino
